@@ -22,6 +22,6 @@ Hello there! I'm Thamiris Brandão Campos, Data Scientist and Data Analyst. I'm 
 
 -   **[Rain Prediction Machine:](https://github.com/thamirisbrandao/rain-prediction-machine.git)**
 
--   **B3 to IR:](https://github.com/thamirisbrandao/b3_imposto_renda.gitt)**
+-   **[B3 to IR:](https://github.com/thamirisbrandao/b3_imposto_renda.gitt)**
 
--   **Houses USA:](https://github.com/thamirisbrandao/house_salesUSA.git)**
+-   **[Houses USA:](https://github.com/thamirisbrandao/house_salesUSA.git)**
