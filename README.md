@@ -62,12 +62,12 @@ I enjoy tackling challenging problems, building reproducible scientific workflow
 
 ## Recent Projects
 
--   **[Wind Intensity Index:]([https://github.com/thamirisbrandao/rain-prediction-machine.git](https://github.com/thamirisbrandao/wind-condition-classification)**
+-   **[Wind Intensity Index:](https://github.com/thamirisbrandao/wind-condition-classification)** An index was developed to assess atmospheric conditions favorable or unfavorable to strong winds. This project was developed between August 2024 and December 2025, supported by a FAPESP TT-5 Fellowship.
 
--   **[Octa:]([https://github.com/thamirisbrandao/b3_imposto_renda.gitt](https://github.com/thamirisbrandao/climate-index-pipeline)**
+-   **[Climate Risk Analytics Platform:](https://github.com/thamirisbrandao/climate-index-pipeline)** Transformed manual climate analysis scripts into an API-driven climate risk application.
   
--   **[Rain Prediction Machine:](https://github.com/thamirisbrandao/rain-prediction-machine.git)**
+-   **[Rain Prediction Machine:](https://github.com/thamirisbrandao/rain-prediction-machine.git)** Buildeing an app to predict hourly rain in state SP and helping people to deal with rain impact.
 
--   **[B3 to IR:](https://github.com/thamirisbrandao/b3_imposto_renda.gitt)**
+-   **[B3 to IR:](https://github.com/thamirisbrandao/b3_imposto_renda.gitt)** Utilizing B3 investor data to build a spreadsheet that optimizes and accelerates income tax filing.
 
--   **[Houses USA:](https://github.com/thamirisbrandao/house_salesUSA.git)**
+-   **[Houses USA:](https://github.com/thamirisbrandao/house_salesUSA.git)**  The House Rocket CEO would like to maximize the company's revenue by finding good business opportunities. The CEO's strategy is to buy good homes in great locations at low prices and then later resell them at higher prices. 
