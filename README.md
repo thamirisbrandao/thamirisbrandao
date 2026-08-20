@@ -68,6 +68,6 @@ I enjoy tackling challenging problems, building reproducible scientific workflow
   
 -   **[Rain Prediction Machine:](https://github.com/thamirisbrandao/rain-prediction-machine.git)** Buildeing an app to predict hourly rain in state SP and helping people to deal with rain impact.
 
--   **[B3 to IR:](https://github.com/thamirisbrandao/b3_imposto_renda.gitt)** Utilizing B3 investor data to build a spreadsheet that optimizes and accelerates income tax filing.
+-   **[B3 to IR:](https://github.com/thamirisbrandao/b3_imposto_renda)** Utilizing B3 investor data to build a spreadsheet that optimizes and accelerates income tax filing.
 
 -   **[Houses USA:](https://github.com/thamirisbrandao/house_salesUSA.git)**  The House Rocket CEO would like to maximize the company's revenue by finding good business opportunities. The CEO's strategy is to buy good homes in great locations at low prices and then later resell them at higher prices. 
