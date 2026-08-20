@@ -62,9 +62,9 @@ I enjoy tackling challenging problems, building reproducible scientific workflow
 
 ## Recent Projects
 
--   **[Wind Intensity Index:](https://github.com/thamirisbrandao/rain-prediction-machine.git)**
+-   **[Wind Intensity Index:]([https://github.com/thamirisbrandao/rain-prediction-machine.git](https://github.com/thamirisbrandao/wind-condition-classification)**
 
--   **[Octa:](https://github.com/thamirisbrandao/b3_imposto_renda.gitt)**
+-   **[Octa:]([https://github.com/thamirisbrandao/b3_imposto_renda.gitt](https://github.com/thamirisbrandao/climate-index-pipeline)**
   
 -   **[Rain Prediction Machine:](https://github.com/thamirisbrandao/rain-prediction-machine.git)**
 
